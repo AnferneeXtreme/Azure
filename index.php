@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Accueil</title>
-    <link rel="stylesheet" href="..\css\index.css">
-    <script type="text/javascript" src="..\js\jquery.js"></script>
-    <script type="text/javascript" src="..\js\index.js"></script>
+    <link rel="stylesheet" href=".\css\index.css">
+    <script type="text/javascript" src=".\js\jquery.js"></script>
+    <script type="text/javascript" src=".\js\index.js"></script>
 </head>
 <body>
   <header><h1>Registreroo</h1></header>
